@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1557157764 source:d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\child.cpp
+	"child.h"
+
+1557157810 d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\child.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1557154303 source:d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\main.cpp
+	<iostream>
+	<stdlib.h>
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1557152257 d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\parent.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1557149011 d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1524550142 d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1557158895 source:d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\menu.cpp
+	"menu.h"
+
+1557157425 source:d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\parent.cpp
+	<iostream>
+	"parent.h"
+
+1557157399 source:d:\if4102 - data perfilman\rendhi arya wiryawan_1301174097\relasi.cpp
+	"relasi.h"
+
+1557157764 source:d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\child.cpp
+	"child.h"
+
+1557157810 d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\child.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1557154303 source:d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\main.cpp
+	<iostream>
+	<stdlib.h>
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1557152257 d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\parent.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1557149011 d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1524550142 d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1557158895 source:d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\menu.cpp
+	"menu.h"
+
+1557157425 source:d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\parent.cpp
+	<iostream>
+	"parent.h"
+
+1557157399 source:d:\tubes data perfilman (1901174097)\rendhi arya wiryawan_1301174097\relasi.cpp
+	"relasi.h"
+
+1557157764 source:d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\child.cpp
+	"child.h"
+
+1557157810 d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\child.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1557154303 source:d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\main.cpp
+	<iostream>
+	<stdlib.h>
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1557152257 d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\parent.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1557149011 d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1558723439 d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1558880261 source:d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\menu.cpp
+	"menu.h"
+
+1557157425 source:d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\parent.cpp
+	<iostream>
+	"parent.h"
+
+1557157399 source:d:\tubes data perfilman (1301174097)\rendhi arya wiryawan_1301174097\relasi.cpp
+	"relasi.h"
+
